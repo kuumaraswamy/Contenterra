@@ -1,0 +1,33 @@
+
+@media  (min-width: 901px) {
+    /* apply styles for screens with a width between 601px and 900px */
+    .navbar {
+        display: flex;
+        align-items: center;
+      
+        background-color: #333;
+        color: #fff;
+      }
+      
+      .navbar-logo {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        text-decoration: none;
+        color: #fff;
+      }
+    
+     .navbar-logo {
+        height: 50px;
+        margin-right: 35rem;
+        margin-left: 20px;
+        color: #fff;
+      } 
+       
+      .navbar-title {
+        font-size: 1.5rem;
+        font-weight: 600;
+      }
+      
+  }
+ 
